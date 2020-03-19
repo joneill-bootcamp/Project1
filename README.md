@@ -1,2 +1,1 @@
-# Project1
-Proejct1 - Knowledge Hub
+# project1-knowledge-hub
